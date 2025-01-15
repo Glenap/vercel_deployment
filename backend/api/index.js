@@ -2,8 +2,8 @@ const express = require("express");
 const cors = require("cors");
 const bodyParser = require("body-parser");
 const dotenv = require("dotenv");
-const courseRoutes = require("./routes/courses");
-const authRoutes = require("./routes/auth"); // Import authentication routes
+const courseRoutes = require("../routes/courses");
+const authRoutes = require("../routes/auth"); // Import authentication routes
 
 dotenv.config();
 
