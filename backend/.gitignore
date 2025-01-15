@@ -27,9 +27,6 @@ Thumbs.db
 *.swp
 
 # Specific folders to ignore
-src/app/course/Artificial Intelligence
-src/app/course/Data Structure and Algorithm
-src/app/course/machine_learning
-src/app/course/finance
+
 # Next.js build output
 .next/
