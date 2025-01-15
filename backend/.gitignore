@@ -1,0 +1,35 @@
+# Node.js
+/node_modules/
+backend/node_modules/
+
+# Build and dependencies
+dist/
+build/
+*.log
+*.lock
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Specific folders to ignore
+src/app/course/Artificial Intelligence
+src/app/course/Data Structure and Algorithm
+src/app/course/machine_learning
+src/app/course/finance
+# Next.js build output
+.next/

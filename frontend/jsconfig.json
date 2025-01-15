@@ -1,0 +1,16 @@
+// {
+//   "compilerOptions": {
+//     "paths": {
+//       "@/*": ["frontend/src/app/*"]
+//     }
+//   }
+// }
+ 
+{
+  "compilerOptions": {
+    "baseUrl": "./https://github.com/Glenap/App_deployment_CourseHelper.git", // Adjust this to your project's root directory
+    "paths": {
+      "@/*": ["frontend/src/app/*"]
+    }
+  }
+}
